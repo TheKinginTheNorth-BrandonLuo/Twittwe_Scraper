@@ -8,10 +8,10 @@ from http.client import IncompleteRead
 
 
 #Variables that contains the user credentials to access Twitter API 
-access_token = "1002212619971977217-dR32UVYmtl8vKm13TCQeTuVLI0Jxst"
-access_token_secret = "YtRP1e1AiyPikCbrb6fI8nVSktEySZbt89PlsyguYh7xn"
-consumer_key = "VnBg2c4QySbbiedmpK2Xeq5fk"
-consumer_secret = "TiAVtccus6ViMfYZYMCK9geAeEUS8Wsd6Fp11vPmFc3Si0JNn4"
+access_token = ""
+access_token_secret = ""
+consumer_key = ""
+consumer_secret = ""
 
 
 #This is a basic listener that just prints received tweets to stdout.
