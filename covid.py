@@ -5,10 +5,10 @@ from urllib3.exceptions import ProtocolError
 from requests.exceptions import ChunkedEncodingError
 from http.client import IncompleteRead
 
-access_token = "1002212619971977217-dR32UVYmtl8vKm13TCQeTuVLI0Jxst"
-access_token_secret = "YtRP1e1AiyPikCbrb6fI8nVSktEySZbt89PlsyguYh7xn"
-consumer_key = "VnBg2c4QySbbiedmpK2Xeq5fk"
-consumer_secret = "TiAVtccus6ViMfYZYMCK9geAeEUS8Wsd6Fp11vPmFc3Si0JNn4"
+access_token = ""
+access_token_secret = ""
+consumer_key = ""
+consumer_secret = ""
 
 class StdOutListener(StreamListener):
     def on_data(self, data):
